@@ -7,5 +7,8 @@ config.json
 
 # venv files
 venv/*
+.env
 
 data/
+
+__pycache__/
